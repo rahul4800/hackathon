@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import "../styles/AdminLogin.css";
+import "../styles/adminLogin.css";
 
 
 const AdminLogin = ()=>{
